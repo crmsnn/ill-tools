@@ -90,7 +90,7 @@ Geode is without a doubt the best choice, being a full on mod ecosystem.
 
 https://geode-sdk.org/
 
-Within Geode, the common consensus is that **Eclipse** and **XDBot** are the best currently available
+Within Geode, the common consensus is that [Silicate](https://discord.gg/zXvvbw3Nq4) the best currently available
 
 **yBot:**
 https://ybot.store/
