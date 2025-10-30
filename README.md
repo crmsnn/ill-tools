@@ -90,13 +90,16 @@ Geode is without a doubt the best choice, being a full on mod ecosystem.
 
 https://geode-sdk.org/
 
-Within Geode, the common consensus is that **Eclipse** and **XDBot** are the best currently available
+Within Geode, the common consensus is that **Eclipse** and **Silicate** are the best currently available
 
 **yBot:**
 https://ybot.store/
 
 **TCbot/ծBot:**
 https://www.tcbot.pro/
+
+**Silicate:**
+https://discord.gg/dFfNGW2V
 
 ### 2.1
 
@@ -141,8 +144,8 @@ https://icreate.pro/
 **Echo 1.1:**
 https://cdn.discordapp.com/attachments/838145374849204244/1178573916088836106/Echo_v1.1.dll?ex=688c55fe&is=688b047e&hm=ff19c915bd331885fc40001fe3dbc820dee72fad41bb1514ca410ce0e71f93bc&
 
-**Obot v2:**
-https://github.com/Very-Tall-Midget/OmegaBot2/releases/v2.0.5-alpha
+**Obot v3:**
+[Link](https://cdn.discordapp.com/attachments/1400491385928417330/1419721329774559293/OmegaBot_3.1.2_x64-setup.exe?ex=69043a46&is=6902e8c6&hm=eb76eb2511c9b0f068b266db81f4e55e60c54f21170859b3dc378e1c626fa5b7&)
 
 **GD Share:**
 https://github.com/HJfod/GDShare/releases/tag/v0.3.4
