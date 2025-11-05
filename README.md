@@ -7,9 +7,6 @@ https://discord.gg/MHx4Nbp
 
 Main sources are ILL pins, ICL #gd-resources and crmsn's #tools.
 
-
-I'm currently looking into hosting some of the .dlls in this repo, I just need to check permissions.
-
 ***
 # Getting Older versions
 
