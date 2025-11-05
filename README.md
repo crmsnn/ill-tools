@@ -1,4 +1,4 @@
-# Ill tools
+# ILL tools
 A compilation of tools for making impossible levels in Geometry Dash, focused on version 2.1 of the game.
 
 https://www.impossiblelevels.com
@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=EYQBQ4xNb_0
 https://web.archive.org/web/20230402215601/https://adaf.xyz/adaf/hm/download/v35.6/8705cae3fff101c2bb6c884f5c68bda983c0955d7fa477692424cd2c727cafea/GDHM_TASBOT_v35.6.zip
 
 Installation Guide:
-https://docs.google.com/document/d/1OHlalyltq6is6o8EfYCVqeZBiBVWcEea/edit?usp=sharing&ouid=100518803770411660850&rtpof=true&sd=true
+[gdhm.md](gdhm.md)
 
 
 **GDMO:**
