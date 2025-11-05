@@ -112,8 +112,7 @@ https://www.youtube.com/watch?v=EYQBQ4xNb_0
 **GDHM:**
 https://web.archive.org/web/20230402215601/https://adaf.xyz/adaf/hm/download/v35.6/8705cae3fff101c2bb6c884f5c68bda983c0955d7fa477692424cd2c727cafea/GDHM_TASBOT_v35.6.zip
 
-Installation Guide:
-[gdhm.md](gdhm.md)
+Installation Guide: [here](gdhm.md)
 
 
 **GDMO:**
@@ -142,10 +141,10 @@ https://icreate.pro/
 *This is by no means a comprehensive list*
 
 **Echo 1.1:**
-https://cdn.discordapp.com/attachments/838145374849204244/1178573916088836106/Echo_v1.1.dll?ex=688c55fe&is=688b047e&hm=ff19c915bd331885fc40001fe3dbc820dee72fad41bb1514ca410ce0e71f93bc&
+[Here](Echo_v1.1.dll)
 
 **Obot v3:**
-[Link](https://cdn.discordapp.com/attachments/1400491385928417330/1419721329774559293/OmegaBot_3.1.2_x64-setup.exe?ex=69043a46&is=6902e8c6&hm=eb76eb2511c9b0f068b266db81f4e55e60c54f21170859b3dc378e1c626fa5b7&)
+[Here](OmegaBot_3.1.2_x64-setup.exe)
 
 **GD Share:**
 https://github.com/HJfod/GDShare/releases/tag/v0.3.4
